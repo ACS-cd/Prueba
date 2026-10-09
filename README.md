@@ -1,5 +1,5 @@
 # Tarea 3 · La factura bajo el microscopio
-Pareja: (nombre 1) y (nombre 2) · GitHub: (usuario 1), (usuario 2)
+Pareja: Irene, Adam y Angela Colorado Sousa · GitHub: adammurga013, Irenegmez04 y ACS-cd 
 
 ## Reto 1 · Compilar desde la terminal
 - Comando usado y resultado. javac factura.java , no compila. dir para detectar los archivos creados.

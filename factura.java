@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Factura {
 
     static final double IVA = 0.21;
-    static final String PROPIETARIO = "adammurga013, Irenegmez04 y ACS-cd";
+    static final String PROPIETARIO = "adammurga013, Irenegmez04 y ACS-cd ";
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
